@@ -4,7 +4,7 @@
 
 **Running the demo**
 
-- Clone the github project `git@github.com:https://github.com/mokhaled11/mokh.git`
+- Clone the github project `git@github.com:https://github.com/mokhaled11/kahier-payments-python-django.git`
 - On your cloned project root run `pipenv shell` to create virtual environment then run `python manage.py runserver 8000` 
 - Navigate to `localhost:8000` to make sure things are working.
 - Begin configuring your merchant.
